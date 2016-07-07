@@ -1,5 +1,5 @@
 Study on choice of various components for a web service. 
-Aims to quickly give an overview of the various strengths and features of that component/programming language.
+Aims to quickly give an overview of the various strengths and features of that component/programming language in a [wiki](https://github.com/chenthillrulz/polyglot/wiki).
 
 This project was inspired from  [android guides](https://github.com/codepath/android_guides)
 
