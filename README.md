@@ -1,5 +1,5 @@
 Study on choice of various components for a web service. 
-Aim is to quickly give an overview of the various strengths and features of that component/programming language in a single page.
+Aims to quickly give an overview of the various strengths and features of that component/programming language.
 
 This project was inspired from  [android guides](https://github.com/codepath/android_guides)
 
