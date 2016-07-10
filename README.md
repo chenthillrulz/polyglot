@@ -12,4 +12,4 @@ The idea is to create a wiki that serves the following purpose,
 * Choosing a web frontend such as angular js, ember js, backbone js etc.
 * Choosing between native/hybrid mobile apps.
 
-List their strengths and possible use cases for them to build solutions.
+List their strengths and possible use cases to build solutions using the right tools.
